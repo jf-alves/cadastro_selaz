@@ -1,7 +1,3 @@
-# Teste Prático para Desenvolvedor Pleno Back-End em Java e Spring Boot
-
-Este repositório contém o teste prático para a vaga de Desenvolvedor Pleno Back-End em Java e Spring Boot.
-
 ## Descrição do Projeto
 
 Desenvolver uma aplicação de gerenciamento de tarefas (todo list) com as seguintes funcionalidades:
@@ -20,12 +16,12 @@ Desenvolver uma aplicação de gerenciamento de tarefas (todo list) com as segui
    - Permitir que as tarefas de um usuário específico sejam listadas.
    
 ### Aplicação de Testes unitários
-   - O metodos devem ser testados com JUnit
+   - O metodos testados com JUnit
 
 ## Requisitos Técnicos
 
-- Java 11 ou superior
-- Spring Boot
+- Java 11 ou superior(Utilizado JAVA 17)
+- Spring Boot(Versão 3.2.9)
 - Banco de Dados Relacional (H2 para facilitar os teste)
 - JPA/Hibernate
 - Maven
@@ -64,8 +60,3 @@ Para facilitar a configuração do ambiente, você pode usar o script `setup.sh`
     ```
 
 O script irá verificar se você tem Java 11 e Maven instalados, instalar as dependências do Maven e iniciar a aplicação Spring Boot.
-
-## Envio do Projeto
-O candidato deve enviar o link do repositório (GitHub) contendo o código-fonte do projeto, junto com um arquivo README.md explicando como configurar e executar a aplicação.
-
-Boa sorte!
