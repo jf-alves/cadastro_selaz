@@ -1,0 +1,16 @@
+io\github\jfalves\cadastro\enums\EnumStatus.class
+io\github\jfalves\cadastro\model\UserModel.class
+io\github\jfalves\cadastro\repository\TaskRepository.class
+io\github\jfalves\cadastro\repository\UserRepository.class
+io\github\jfalves\cadastro\BackendJavaSpringTestApplication.class
+io\github\jfalves\cadastro\service\impl\TaskServiceImpl.class
+io\github\jfalves\cadastro\service\impl\UserServiceImpl.class
+io\github\jfalves\cadastro\dto\TaskDto$TaskDtoBuilder.class
+io\github\jfalves\cadastro\dto\UserDto$UserDtoBuilder.class
+io\github\jfalves\cadastro\model\TaskModel.class
+io\github\jfalves\cadastro\dto\TaskDto.class
+io\github\jfalves\cadastro\service\UserService.class
+io\github\jfalves\cadastro\dto\UserDto.class
+io\github\jfalves\cadastro\controller\TaskController.class
+io\github\jfalves\cadastro\controller\UserController.class
+io\github\jfalves\cadastro\service\TaskService.class
